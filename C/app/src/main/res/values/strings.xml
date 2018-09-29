@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">yoursApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="forgot_pwd">Forgot Password?</string>
+
+
+    <string name="FACEBOOK_APP_ID">258082951710531</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">95b44d2a5b9eebef40a85a0f95192973</string>
+
+    <string name="title_activity_nearby_store">Map</string>
+    <string name="title_activity_tracking_order">Map</string>
+</resources>
